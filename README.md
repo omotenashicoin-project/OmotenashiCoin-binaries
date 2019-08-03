@@ -1,0 +1,2 @@
+# OmotenashiCoin-binaries
+OmotenashiCoin-binaries
