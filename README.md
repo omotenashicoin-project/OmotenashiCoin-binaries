@@ -4,8 +4,8 @@
 
 Please use the latest version 1.7.0.  
 It is not compatible with older versions.  
-The old version of the blockchain data,   
-wallet address, and the coins you had were erased.  
+We erased everything, including old versions of   
+blockchain data, wallet addresses, and coins you had.
 
 
 # Source files description
