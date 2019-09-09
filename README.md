@@ -1,5 +1,5 @@
 # OmotenashiCoin-binaries
-``` Version 1.7.1 release. ```
+``` Version 1.7.1 release. ```  
 Check point updaed.
 MocOS and Windows 32bit released.
 
