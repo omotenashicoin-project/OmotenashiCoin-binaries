@@ -2,7 +2,7 @@
 ``` Version 1.7.1 release. ```  
 2019-09-10
 Check point updaed.
-MocOS and Windows 32bit released.
+MacOS and Windows 32bit released.
 
 ``` Version 1.7.0 release. ```
 
