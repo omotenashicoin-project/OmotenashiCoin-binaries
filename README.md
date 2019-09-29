@@ -1,4 +1,9 @@
 # OmotenashiCoin-binaries
+``` Version 1.7.2 release. ```  
+2019-09-30
+Check point updaed.
+Linux ARM 64Bit, 32Bit released.
+
 ``` Version 1.7.1 release. ```  
 2019-09-10
 Check point updaed.
