@@ -1,4 +1,10 @@
 # OmotenashiCoin-binaries
+``` Version 1.7.4 release. ```  
+2020-04-25
+
+``` Version 1.7.3 release. ```  
+2020-01-20
+
 ``` Version 1.7.2 release. ```  
 2019-09-30
 Check point updaed.
